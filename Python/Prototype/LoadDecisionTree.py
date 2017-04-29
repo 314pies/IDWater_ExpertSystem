@@ -8,6 +8,7 @@ from sklearn.metrics import accuracy_score
 from sklearn import tree
 import _pickle
 
+'''__________File names__________'''
 trainDataFileName = "trainData.csv"
 TreeGraphFileName = "ProtoTypeGraph.dot"
 ExportedTreeFileName = "ProtoType.pkl"
